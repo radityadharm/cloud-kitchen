@@ -1,0 +1,13 @@
+kategori,bahan_utama,kandidat_supplier,lokasi,termin_pembayaran,frekuensi_order,catatan
+Protein,Ayam karkas & fillet,Distributor/RPA ayam lokal (mis. area Palur/Pasar Kliwon),Surakarta,COD / tempo 7 hari,Harian,"Kunci konsistensi ukuran potong; minta fillet trim rapi"
+Protein,Telur,Agen telur grosir,Pasar Legi,COD,2x/minggu,Simpan di suhu ruang sejuk
+Sembako,Beras,Grosir beras,Pasar Legi / distributor,Tempo 7 hari,Mingguan,Pilih 1 varietas konsisten (pera untuk rice bowl)
+Sembako,Minyak goreng,Grosir sembako,Surakarta,COD,Mingguan,Beli jerigen 18L lebih murah
+Sembako,Tepung terigu & breadcrumb,Distributor bahan kue,Surakarta,COD,Mingguan,Breadcrumb kasar untuk katsu
+Bumbu,Cabai/bawang/rempah segar,Pedagang bumbu,Pasar Legi / Pasar Gede,COD,Harian,Harga fluktuatif; pantau harga cabai
+Bumbu,Bumbu premix & saus (gochujang/teriyaki/katsu),Distributor bahan F&B / online,Surakarta/Jakarta,Tempo 14 hari,2x/bulan,"Stok aman 2 minggu; item impor rawan kosong"
+Dairy,Susu UHT & keju,Distributor dairy,Surakarta,Tempo 7 hari,Mingguan,Rantai dingin wajib
+Kopi,Biji kopi roasted,Roaster lokal Solo/Jawa Tengah,Surakarta,COD / tempo 7 hari,2x/bulan,"Blend robusta-arabika untuk kopi susu; jaga freshness < 3 minggu"
+Kopi,Gula aren cair & sirup,Produsen gula aren / distributor,Surakarta,COD,Bulanan,Uji rasa konsisten antar-batch
+Packaging,Box/bowl/cup/label,Supplier packaging,Surakarta / online,Tempo 14 hari,Bulanan,Beli volume untuk harga grosir; stok 1 bulan
+Gas & operasional,LPG 12kg/50kg,Agen resmi LPG,Surakarta,COD,Mingguan,Sediakan tabung cadangan

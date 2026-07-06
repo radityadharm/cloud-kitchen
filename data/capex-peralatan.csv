@@ -1,0 +1,29 @@
+kategori,item,qty,harga_satuan_rp,total_rp
+Alat Masak,Deep fryer gas 2 basket,1,4000000,4000000
+Alat Masak,Kompor high-pressure 2 tungku,1,2500000,2500000
+Alat Masak,Rice cooker kapasitas besar,2,1500000,3000000
+Alat Masak,Wajan/panci/spatula/pisau/talenan/container,1,5000000,5000000
+Alat Masak,Timbangan digital dapur,2,300000,600000
+Pendingin,Chest freezer 200L,1,4000000,4000000
+Pendingin,Kulkas 2 pintu,1,3500000,3500000
+Pendingin,Chest cooler minuman,1,2500000,2500000
+Furnitur Dapur,Meja kerja stainless,2,2000000,4000000
+Furnitur Dapur,Rak stainless,2,1000000,2000000
+Furnitur Dapur,Sink stainless 2 bak,1,2500000,2500000
+Ventilasi,Exhaust hood + blower,1,5000000,5000000
+Alat Kopi,Mesin espresso semi-auto 1 group,1,15000000,15000000
+Alat Kopi,Grinder kopi,1,4000000,4000000
+Alat Kopi,Perlengkapan barista (pitcher/tamper/dll),1,1500000,1500000
+Packing,Cup sealer + plastik sealer,1,2500000,2500000
+Sistem,POS tablet + printer + software (setup),1,3000000,3000000
+Sistem,CCTV + jaringan wifi,1,2000000,2000000
+Lain-lain,Signage + furnitur pendukung + misc,1,3000000,3000000
+SUBTOTAL ALAT,,,,69600000
+Non-Alat,Renovasi & instalasi dapur (listrik/gas/exhaust/keramik),1,40000000,40000000
+Non-Alat,Deposit + sewa dibayar dimuka,1,15000000,15000000
+Non-Alat,Perizinan (NIB/PIRT/sertifikat halal/izin usaha),1,8000000,8000000
+Non-Alat,Branding + fotografi menu 4 brand,1,10000000,10000000
+Non-Alat,Onboarding platform + marketing awal,1,10000000,10000000
+Non-Alat,Modal kerja awal (bahan + gaji buffer bulan 1),1,40000000,40000000
+Non-Alat,Kontingensi ~10%,1,20000000,20000000
+TOTAL CAPEX,,,,212600000

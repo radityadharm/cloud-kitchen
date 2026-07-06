@@ -1,0 +1,26 @@
+bahan,satuan,par_min,par_max,lead_time_hari,frekuensi_cek,supplier,kategori_simpan
+Ayam karkas (potong),kg,15,30,1,Harian,Distributor ayam lokal,Freezer/Chiller
+Ayam fillet,kg,12,25,1,Harian,Distributor ayam lokal,Freezer/Chiller
+Beras,kg,50,100,2,Mingguan,Grosir beras,Kering
+Minyak goreng,liter,36,72,2,Mingguan,Grosir sembako,Kering
+Tepung terigu,kg,15,30,2,Mingguan,Distributor bahan kue,Kering
+Breadcrumb/panir,kg,8,16,3,Mingguan,Distributor bahan kue,Kering
+Tepung bumbu premix,kg,10,20,3,Mingguan,Distributor F&B,Kering
+Telur,kg,10,20,2,2x/minggu,Agen telur,Suhu ruang sejuk
+Cabai,kg,4,8,1,Harian,Pasar Legi,Chiller
+Bawang merah,kg,5,10,2,2x/minggu,Pasar Legi,Kering berventilasi
+Bawang putih,kg,4,8,2,2x/minggu,Pasar Legi,Kering berventilasi
+Rempah kering (ketumbar/kunyit/lengkuas dll),kg,3,6,3,Mingguan,Pasar Legi,Kering
+Saus gochujang,kg,4,8,7,Mingguan,Distributor F&B,Chiller setelah buka
+Saus teriyaki/katsu,liter,4,8,7,Mingguan,Distributor F&B,Chiller setelah buka
+Saus/bubuk keju,kg,3,6,7,Mingguan,Distributor F&B,Chiller
+Bumbu salted egg,kg,2,4,7,Mingguan,Distributor F&B,Kering
+Susu UHT full cream,liter,24,48,3,Mingguan,Distributor dairy,Chiller
+Keju,kg,3,6,3,Mingguan,Distributor dairy,Chiller
+Biji kopi roasted,kg,4,8,3,2x/bulan,Roaster lokal,Kering kedap udara
+Gula aren cair,liter,6,12,3,Bulanan,Produsen gula aren,Kering
+Cokelat/matcha bubuk,kg,2,4,7,Bulanan,Distributor F&B,Kering
+Packaging box makanan,pcs,1000,3000,5,Bulanan,Supplier packaging,Kering
+Packaging bowl,pcs,1000,3000,5,Bulanan,Supplier packaging,Kering
+Cup kopi 16oz + lid,pcs,1000,3000,5,Bulanan,Supplier packaging,Kering
+LPG 12kg,tabung,2,4,1,Mingguan,Agen LPG,Area khusus berventilasi

@@ -1,0 +1,34 @@
+kode_menu,nama_menu,bahan,qty,satuan,harga_per_satuan_rp,biaya_rp
+AR-01,Paket Ayam Rempah Kremes,ayam karkas (potong),97,gram,33,3200
+AR-01,Paket Ayam Rempah Kremes,bumbu rempah halus,12,gram,40,500
+AR-01,Paket Ayam Rempah Kremes,tepung bumbu premix,20,gram,20,400
+AR-01,Paket Ayam Rempah Kremes,minyak goreng,19,ml,16,300
+AR-01,Paket Ayam Rempah Kremes,kremes/serundeng,13,gram,15,200
+AR-01,Paket Ayam Rempah Kremes,nasi (beras),127,gram,15,1900
+AR-01,Paket Ayam Rempah Kremes,sambal bawang,25,gram,32,800
+AR-01,Paket Ayam Rempah Kremes,lalapan (timun/kol),1,porsi,500,500
+AR-01,Paket Ayam Rempah Kremes,packaging box + sendok + label,1,set,2000,2000
+AR-01,SUBTOTAL,,,,,9800
+GC-01,Rice Box Gochujang,ayam fillet,100,gram,58,5800
+GC-01,Rice Box Gochujang,tepung batter + breadcrumb,30,gram,17,500
+GC-01,Rice Box Gochujang,minyak goreng,25,ml,16,400
+GC-01,Rice Box Gochujang,saus gochujang,30,gram,60,1800
+GC-01,Rice Box Gochujang,nasi (beras),127,gram,15,1900
+GC-01,Rice Box Gochujang,wijen + nori garnish,1,porsi,400,400
+GC-01,Rice Box Gochujang,packaging box + sendok + label,1,set,2000,2000
+GC-01,SUBTOTAL,,,,,12800
+MB-01,Chicken Katsu Rice Bowl,ayam fillet,85,gram,58,4900
+MB-01,Chicken Katsu Rice Bowl,tepung + breadcrumb,30,gram,17,500
+MB-01,Chicken Katsu Rice Bowl,telur,0.3,butir,1800,500
+MB-01,Chicken Katsu Rice Bowl,minyak goreng,25,ml,16,400
+MB-01,Chicken Katsu Rice Bowl,nasi (beras),127,gram,15,1900
+MB-01,Chicken Katsu Rice Bowl,saus katsu/tonkatsu,30,gram,45,1400
+MB-01,Chicken Katsu Rice Bowl,sayur pelengkap (kol/edamame),1,porsi,300,300
+MB-01,Chicken Katsu Rice Bowl,packaging bowl + sendok + label,1,set,2000,2000
+MB-01,SUBTOTAL,,,,,11900
+KS-01,Es Kopi Susu Gula Aren,biji kopi (espresso),16,gram,150,2400
+KS-01,Es Kopi Susu Gula Aren,susu UHT full cream,100,ml,18,1800
+KS-01,Es Kopi Susu Gula Aren,gula aren cair,25,ml,28,700
+KS-01,Es Kopi Susu Gula Aren,es batu,1,porsi,300,300
+KS-01,Es Kopi Susu Gula Aren,cup 16oz + lid + sedotan + label,1,set,1800,1800
+KS-01,SUBTOTAL,,,,,7000
