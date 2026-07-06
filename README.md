@@ -27,7 +27,8 @@ untuk menekan biaya pembelian dan menyederhanakan stok.
 | 03 | [Pasar Surakarta](docs/03-pasar-surakarta.md) | Demografi, kompetitor, kanal penjualan |
 | 04 | Brand — [Ayam Rempah](docs/04-brand/brand-1-ayam-rempah.md) · [Gochu](docs/04-brand/brand-2-korean-chicken.md) · [Mangkok](docs/04-brand/brand-3-rice-bowl.md) · [Kopi Sore](docs/04-brand/brand-4-kopi.md) | Positioning & menu tiap brand |
 | 05 | [Menu & Pricing](docs/05-menu-dan-pricing.md) | Strategi harga, COGS, promo, paket |
-| 06 | [Resep & BOM](docs/06-resep-dan-bom.md) | Resep tiap menu + rincian bahan per porsi |
+| 06 | [Resep & BOM](docs/06-resep-dan-bom.md) | Ringkasan COGS/BOM + peta ke binder resep |
+| 📖 | **[Binder Resep Detail](docs/resep/00-standar-dan-teknik.md)** | **Resep standar restoran 24 menu**: teknik, sub-resep batch, gramasi, suhu, plating, catatan chef |
 | 07 | [Supply & Sourcing](docs/07-supply-sourcing.md) | Strategi pengadaan & kandidat supplier Solo |
 | 08 | [Stock & Inventory](docs/08-stock-inventory.md) | Par level, penyimpanan, kontrol waste |
 | 09 | [Peralatan & CAPEX](docs/09-peralatan-capex.md) | Daftar alat + estimasi investasi |
